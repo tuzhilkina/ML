@@ -6,5 +6,5 @@
 <p><img src = "https://github.com/tuzhilkina/ML/blob/master/kMeans/kMeans.png?raw=true"></p>
 <hr />
 <p>DBSCAN</p>
-<p>img src = "https://github.com/tuzhilkina/ML/blob/master/dbscan/dbscan.png?raw=true"></p>
+<p><img src = "https://github.com/tuzhilkina/ML/blob/master/dbscan/dbscan.png?raw=true"></p>
 
