@@ -1,2 +1,2 @@
-# Inro to Machine Learning
+# Intro to Machine Learning
 kNN, kMeans (+ elbow), DBSCAN
